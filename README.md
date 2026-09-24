@@ -146,7 +146,7 @@ The report contains an overview page focused on workforce attrition.
 
 ### Dashboard Screenshot
 
-![HR Attrition Dashboard](Screenshots/dashboard.png)
+![HR Attrition Dashboard](Dashboard.png)
 
 ---
 
@@ -167,7 +167,7 @@ The project demonstrates:
 
 ### Security Screenshot
 
-![Column-Level Security](Screenshots/column-level-security.png)
+![Column-Level Security](CLS.png)
 
 ---
 
@@ -177,7 +177,7 @@ The transformed `hr_employees` table is stored in the Fabric Lakehouse and can b
 
 ### Lakehouse Screenshot
 
-![Microsoft Fabric Lakehouse](Screenshots/lakehouse.png)
+![Microsoft Fabric Lakehouse](Lakehouse.png)
 
 ---
 
